@@ -41,3 +41,6 @@ This project is licensed under the MIT License
 
 - This project was created as part of learning HTML and CSS by building a real-world project.
 - Special thanks to online tutorials and resources for providing guidance and inspiration.
+
+![Evento Preview](https://github.com/joelsiby02/Evento/blob/main/evento.png?raw=true)
+
