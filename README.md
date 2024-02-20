@@ -1,7 +1,3 @@
-Sure, here's a simple README for your "Evento" project:
-
----
-
 # Evento - HTML & CSS Frontend Web Application
 
 **Evento** is a simple frontend web application created as a learning project to practice HTML and CSS. It provides a basic interface for users to find events near their city. Please note that this project does not include any backend functionality; it's purely frontend to demonstrate HTML and CSS skills.
